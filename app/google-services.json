@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "552971640282",
+    "firebase_url": "https://mahangasht-159107.firebaseio.com",
+    "project_id": "mahangasht-159107",
+    "storage_bucket": "mahangasht-159107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552971640282:android:9dca1663cded9dfc",
+        "android_client_info": {
+          "package_name": "com.mahangasht.mahangashtapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552971640282-k3agqhs78pjuqcnectq9hkeg8ueucklt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahangasht.mahangashtapp",
+            "certificate_hash": "e10bafbe8734388e92dcd482cc73ede6e769dc5d"
+          }
+        },
+        {
+          "client_id": "552971640282-94vdg3h41kksjendsh5ostjurq9rinb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8cY2BvKsSdwLiHMXlSy_P6hK6Dr9lJjg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552971640282-94vdg3h41kksjendsh5ostjurq9rinb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

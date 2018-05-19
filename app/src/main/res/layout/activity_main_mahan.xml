@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mahangasht.mahangashtapp.MainMahanActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/Button_01"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_weight="0.4"
+                android:layout_margin="5dp"
+                android:background="@drawable/main_buttom"
+                android:text="تلفن اضطراری مشاغل" />
+
+            <Button
+                android:id="@+id/Button_02"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_weight="0.6"
+                android:layout_margin="5dp"
+                android:background="@drawable/main_buttom"
+                android:text="خدمات همواره تخفیف مشاغل" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/Button_03"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_weight="0.3"
+                android:layout_margin="5dp"
+                android:background="@drawable/main_buttom"
+                android:text="خدمات خودرو" />
+
+            <Button
+                android:id="@+id/Button_04"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_weight="0.4"
+                android:layout_margin="5dp"
+                android:background="@drawable/main_buttom"
+                android:text="خدمات ساختمان و منزل" />
+
+            <Button
+                android:id="@+id/Button_05"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_weight="0.3"
+                android:layout_margin="5dp"
+                android:background="@drawable/main_buttom"
+                android:text="حمل و نقل" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/Button_06"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_weight="0.5"
+                android:layout_margin="5dp"
+                android:background="@drawable/main_buttom"
+                android:text="خدمات درمانی و پزشکی" />
+
+            <Button
+                android:id="@+id/Button_07"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_weight="0.5"
+                android:layout_margin="5dp"
+                android:background="@drawable/main_buttom"
+                android:text="فروش بلیط تورهای سیاحتی" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/Button_08"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_weight="0.5"
+                android:layout_margin="5dp"
+                android:background="@drawable/main_buttom"
+                android:text="خرید شارژ ، پرداخت قبوض" />
+
+            <Button
+                android:id="@+id/Button_09"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_weight="0.5"
+                android:layout_margin="5dp"
+                android:background="@drawable/main_buttom"
+                android:text="خدمات موبایل ، سیم کارت و اینتر نت" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/Button_10"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_weight="0.5"
+                android:layout_margin="5dp"
+                android:background="@drawable/main_buttom"
+                android:text="عضویت مشاغل خدماتی" />
+
+            <Button
+                android:id="@+id/Button_11"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:layout_weight="0.5"
+                android:layout_margin="5dp"
+                android:background="@drawable/main_buttom"
+                android:text="رستوران و فست فود ، سوپر مارکت" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/Button_12"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/main_buttom"
+                android:text="اخبار" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
